@@ -8,4 +8,4 @@ To straightforwardly implement CCDM method on various forecasting scenarios demo
 
 Dataset is available at: https://github.com/thuml/Time-Series-Library.
 
-We will refine this code repository once the paper can be published.
+We will continue to refine this code repository once the paper can be published.
